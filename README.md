@@ -1,4 +1,16 @@
-### Olá, me chamo Iago. Atualmente cursando Análisee Desenvolvimento de Sistemas (3/6) pelo IFPI campus Pedro II
-###        <a href="https://www.linkedin.com/in/iago-amorim-262407233/" target="_blank">Linkedin</a>
- ###       <a href="https://instagram.com/danonep2" target="_blank">Instagram</a>
-###        <a href="https://t.me/danonep2" target="_blank">Telegram</a>
+<img src="https://www.gifcen.com/wp-content/uploads/2022/02/among-us-gif-4.gif" width="100px" align="right"/>
+<h1>Olá 👋 </h1>
+
+<p align="center">Me chamo Iago. Atualmente cursando Análisee Desenvolvimento de Sistemas (3/6) pelo IFPI campus Pedro II</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iago-amorim-262407233/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" title="linkedin" alt="linkedin" style="margin: 50px"/>
+  </a>
+  <a href="https://instagram.com/danonep2" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" title="Instagram" alt="Instagram" margin="5px"/>
+  </a>
+    <a href="https://t.me/danonep2" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" width="30px" title="Telegram" alt="Telegram" margin="5px"/>
+    </a>
+</div>
