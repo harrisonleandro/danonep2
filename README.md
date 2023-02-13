@@ -5,12 +5,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iago-amorim-262407233/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" title="linkedin" alt="linkedin" style="margin: 50px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" title="linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/danonep2" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" title="Instagram" alt="Instagram" margin="5px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" title="Instagram" alt="Instagram"/>
   </a>
-    <a href="https://t.me/danonep2" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" width="30px" title="Telegram" alt="Telegram" margin="5px"/>
-    </a>
+  <a href="https://t.me/danonep2" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" width="30px" title="Telegram" alt="Telegram"/>
+  </a>
 </div>
