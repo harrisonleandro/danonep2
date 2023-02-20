@@ -1,7 +1,7 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2022/02/among-us-gif-4.gif" width="100px" align="right"/>
 <h1>Olá 👋 </h1>
 
-<p align="center">Me chamo Iago. Atualmente cursando Análisee Desenvolvimento de Sistemas (3/6) pelo IFPI campus Pedro II</p>
+<p align="center">Me chamo Iago. Atualmente cursando Análise e Desenvolvimento de Sistemas (3/6) pelo IFPI campus Pedro II</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iago-amorim-262407233/" target="_blank">
