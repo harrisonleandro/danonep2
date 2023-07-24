@@ -4,13 +4,12 @@
 <p align="center">Me chamo Iago. Atualmente cursando Análise e Desenvolvimento de Sistemas (4/6) pelo IFPI campus Pedro II</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iago-amorim-262407233/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" title="linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/danonep2" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30px" title="Instagram" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/danonep2" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" width="30px" title="Telegram" alt="Telegram"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 </div>
