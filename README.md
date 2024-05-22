@@ -44,7 +44,7 @@
 </table>
 
 <hr/>
-<p align="center"> Quer falar comigo? Falar sobre algo? Tente as seguintes contatos: </p>
+<p align="center"> Quer falar comigo sobre algo ou apenas bater um papo? Tente os seguintes contatos: </p>
 <div align="center">
 <a href="https://www.instagram.com/danonep2/">
   <img src="https://img.shields.io/badge/-@Iago-fe428e?logo=instagram&logoColor=white" alt="Instagram Badge" />
